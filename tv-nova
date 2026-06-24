@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="-",Canal 7 HD CR
+http://8.243.126.131:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="-",CG ESPN
+http://38.137.192.250:8000/play/a00p
+#EXTINF:-1 group-title="-",Telenovelas
+http://181.78.12.119:16123/play/ch45/index.m3u8
+#EXTINF:-1,CANAL 5 MEXICO
+http://200.35.176.154:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-",Distrito Comedia
+http://181.224.255.210:8001/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="-",azteca uno
+http://181.78.50.191:7225/play/a09b
+#EXTINF:-1 group-title="-",telemundo
+http://181.78.50.191:7225/play/a0b0
+#EXTINF:-1 tvg-id="LASESTRELLAS" tvg-name="LAS ESTRELLAS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="TV ABIERTA", LAS ESTRELLAS 2.1 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
